@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
-  <component name="CheckStyle-IDEA-Module">
-    <option name="configuration">
-      <map />
-    </option>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="d842004d-758e-4a70-a576-43c1cf2e9ab3" />
   </component>
 </module>
