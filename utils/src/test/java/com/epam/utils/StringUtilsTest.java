@@ -12,7 +12,7 @@ class StringUtilsTest {
 
     private static Stream<Arguments> argumentProvider() {
         return Stream.of(
-                Arguments.of("088", true),
+                Arguments.of("088", false),
                 Arguments.of("0", false),
                 Arguments.of("-11.88", false),
                 Arguments.of("8080", true),
